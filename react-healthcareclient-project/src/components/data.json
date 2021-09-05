@@ -1,0 +1,32 @@
+ {
+    "productData": [
+        {
+            "id": 1,
+            "img": "https://m.media-amazon.com/images/I/51bHQGPsWzL._SL1000_.jpg",
+            "title": "Moov Ointment",
+            "desc": "",
+            "price": 56
+        },
+        {
+            "id": 2,
+            "img": "https://m.media-amazon.com/images/I/71nY8KkidFL._SY450_.jpg",
+            "title":"Halls Cough Drops" ,
+            "desc": "",
+            "price": 90
+        },
+        {
+            "id": 3,
+            "img": "https://www.travelpharm.com/images/strepsils-honey-lemon-lozenges-x-24-p14536-15142_zoom.jpg",
+            "title": "Strepsils",
+            "desc": "",
+            "price": 550
+        },
+        {
+            "id": 4,
+            "img": "https://www.u-buy.jp/productimg/?image=aHR0cHM6Ly9pNS53YWxtYXJ0aW1hZ2VzLmNvbS9hc3IvNDA3MGQ1NjQtYWU4NC00ZTA3LWI1MDEtM2UyYzA5Y2YzNWRhXzIuYzZiYmQ3M2M1ZmFmYjJjM2Y2NzM5ZmVjYjI0ZTcxNGIuanBlZz9vZG5XaWR0aD00MDAmb2RuSGVpZ2h0PTQwMCZvZG5CZz1mZmZmZmY.jpg",
+            "title":"Bayer Aspirin" ,
+            "desc": "",
+            "price": 200
+        }   
+    ]
+}
